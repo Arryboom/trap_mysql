@@ -1,5 +1,5 @@
 # A fake userslist table generater for mysql  
-Some times for security reason we want some fake table in our database to trap intruder,in some situation it's maybe the last defence line,no matter you have a trigger to receive alert or just want waste some time to let intruder disappointed on you database,you may want this table be as "real" as we can.
+
 
 1.You have python2.7 installed  
 2.For chinese user,you need  
